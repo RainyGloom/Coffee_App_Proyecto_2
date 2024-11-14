@@ -3,7 +3,14 @@ Esta aplicación está pensada para los amantes del café, la que permitirán
 crear, almacenar y compartir sus recetas favoritas. Aplicación creada
 a través de la herramienta Flutter pensada para dispósitivos móviles.
 
-Diagrama de Flujo:
+Diagrama de clases:
+![Alt text](Diagrama_Coffee_App.jpg)
+
+Diagrama de flujo:
+![Alt text](Diagrama_de_flujo_receta.svg)
+
+Diagrama de arquitectura: 
+![Alt text](Diagrama_Informacion_Arquitectura.svg)
 
 Requerimientos:
 1. Página de inicio que funcione como menú de acceso a distintas recetas.
