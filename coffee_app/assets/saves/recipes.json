@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Café Mocachino",
+        "ingredients":
+        [
+            {
+                "name": "Cacao",
+                "portion": "2",
+                "measure": "cucharadas"
+            },
+            {
+                "name": "Café expresso",
+                "portion": "1",
+                "measure": "taza"
+            },
+            {
+                "name": "Leche",
+                "portion": "1/2",
+                "measure": "taza"
+            },
+            {
+                "name": "Azúcar",
+                "portion": "",
+                "measure": "al gusto"
+            }
+        ],
+        "utensils":
+        [
+            {
+                "name": "Cafetera",
+                "description": ""
+            },
+            {
+                "name": "Olla",
+                "description": ""
+            },
+            {
+                "name": "Licuadora",
+                "description": ""
+            }
+        ],
+        "steps":
+        [
+            {
+                "step": "El mocachino casero es más fácil de hacer de lo que piensas, incluso sin tener máquina de café profesional. Para elaborarlo puedes usar una cafetera italiana común y hacerun café expresso tan cargado como desees, o emplear una cafetera eléctrica para el mismo resultado"
+            },
+            {
+                "step": "Una vez que tu café expresso esté listo, mezcla en una cazuela la media taza de leche de tu preferencia con las 2 cucharadas de cacao en polvo. Lleva a fuego removiendo bien hasta que la leche esté muy caliente, pero sin que la misma hierva."
+            },
+            {
+                "step": "Retira la leche del fuego y, con la ayuda de una licuadora o varilla eléctrica, remueve la mezcla durante 1 minuto con el fin de que haga espuma, y es que el mocachino casero debe ser espumoso y delicioso."
+            },
+            {
+                "step": "Mezcla la leche con el café expresso caliente y, si lo deseas, decora con un poco de canela o chocolate. ¡Listo!, en pocos minutos podrás disfrutar de un mocachino casero delicioso sin la necesidad de ir a ningún restaurante o cafetería."
+            }
+        ]
+    },
+
+    {
+        "title": "Café Latte",
+        "ingredients":
+        [
+            {
+                "name": "Café expresso",
+                "portion": "1",
+                "measure": "taza"
+            },
+            {
+                "name": "Leche",
+                "portion": "1/2",
+                "measure": "taza"
+            },
+            {
+                "name": "Azúcar",
+                "portion": "",
+                "measure": "al gusto"
+            }
+        ],
+        "utensils":
+        [
+            {
+                "name": "Cafetera",
+                "description": ""
+            },
+            {
+                "name": "Batidora de alambre",
+                "description": ""
+            },
+            {
+                "name": "Vaso alto",
+                "description": ""
+            }
+        ],
+        "steps":
+        [
+            {
+                "step": "El primer paso es tener preparado el café que vayas a utilizar."
+            },
+            {
+                "step": "Si el café va a ser para una sola persona, necesitarás 1/2 taza de leche. En el caso de ser más, será media taza de leche más por cada taza de café."
+            },
+            {
+                "step": "Una vez tienes la leche, coge un batidor de alambre y comienza a darle vueltas hasta formar la cantidad de espuma que desees."
+            },
+            {
+                "step": "Ahora, vierte un poco del café que ya tienes preparado en el vaso donde lo vas a servir de leche. Y para conseguir el acabado del café latte, añade un poco más de leche al café."
+            }
+        ]
+    }
+]
