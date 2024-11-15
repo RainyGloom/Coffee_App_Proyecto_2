@@ -50,7 +50,7 @@ class Recipe
     print(steps.length);
     return Recipe(
       title: json['title'],
-      path: json['image_path'],
+      path: json['image_path'] ?? defaulImagePath,
       ingredients: ingredients,
       utensils: utensils,
       steps: steps,
