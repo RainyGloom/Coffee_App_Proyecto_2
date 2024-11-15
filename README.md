@@ -23,3 +23,5 @@ Requerimientos:
 8. Cargar fotos desde la galería y tomar fotos con la cámara.
 9. Compartir recetas entre usuarios.
 10. Poder contestar el cuestionario que lo recibirá el desarrollador
+
+Enlace presentación: https://youtu.be/a8yHSmBIvBg
